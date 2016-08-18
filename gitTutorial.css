@@ -1,0 +1,25 @@
+installing git
+
+Git Bash
+
+git --version
+git config --global user.name
+git config --global user.email
+git config --global core.editor
+git config --list
+clear
+
+
+
+git --help
+git --help commit
+
+
+//on client machine, create folder: Desktop\tuna\
+
+pwd
+cd ..
+cd Desktop\tuna\
+// turn \tuna\ into a git project
+
+git init   //start a git project
